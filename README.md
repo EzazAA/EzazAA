@@ -26,9 +26,9 @@
 - ⚡ Fun fact **I am still 13**
 <hr>
  <h1>Meet Ezaz Alam Ahmed</h1>
-  <h3>A Passionate Young Developer from India</h3>
+  <h3>A Passionate Young developer </h3>
   <p>
-    Ezaz Alam Ahmed is a remarkable young developer hailing from India, whose enthusiasm and dedication to programming are truly inspiring. Despite his tender age of 13, Ezaz displays a level of skill and commitment beyond his years. With a passion for frontend development and a focus on JavaScript, he continuously expands his knowledge, currently delving into Python and Kotlin.
+   Ezaz Alam Ahmed a young developer from india , assam. Python and web dev enthuasists. grapahic designing and academics. Also Javascript learner. RSBVP nationals.
   </p>
   <p>
     Ezaz is not just a developer; he's a proactive creator. He maintains his own profile webpage, "E Dev," where he showcases his projects and shares insights through his articles on various programming topics. His GitHub repository is a testament to his creativity and expertise, housing a diverse range of projects and accomplishments.
