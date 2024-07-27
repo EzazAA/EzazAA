@@ -13,15 +13,15 @@
 
 - 🌱 I’m currently learning **Python, kotlin**
 
-- 👨‍💻 All of my projects are available at [https://ezazaa.github.io/EzazAlamAhmed](https://ezazaa.github.io/EzazAlamAhmed)
+- 👨‍💻 All of my projects are available [here](https://ezazaa.github.io/EzazAlamAhmed)
 
-- 📝 I regularly write articles on [https://ezazaa.github.io/Blogs](https://ezazaa.github.io/Blogs)
+- 📝 I regularly articles [here](ezazalamahmed.blogspot.com)
 
 - 💬 Ask me about **Frontend development,Javascript**
 
 - 📫 How to reach me **ezazalamahmed@gmail.com**
 
-- 📄 Know about my experiences [https://ezazaa.github.io/resume](https://ezazaa.github.io/resume)
+- 📄 Know about my [expiriences](https://ezazaa.github.io/resume)
 
 - ⚡ Fun fact **I am still 13**
 <hr>
