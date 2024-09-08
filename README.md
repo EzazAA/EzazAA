@@ -1,10 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on my portfolio<br>🌱 I’m currently learning python<br>💬 Ask me about Frontend and design<br>⚡ Fun fact I'm 13
+I'm an emerging developer from India, I started my coding journey back in 2023. I'm specialised in Frontend web development and python. I've developed quite a few projects and like to design webs, I prefer dark mode BTW
 
-#
-[![](https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
-#
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezazalamahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ezaz-alam-ahmed-a6700a2b6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ezazalamahmed) 
 
 # 💻 Tech Stack:
@@ -14,15 +11,16 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ezazaa&theme=prussian&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezazaa&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ezazaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ezazaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+#
+[![](https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 ---
 
 
