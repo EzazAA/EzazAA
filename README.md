@@ -1,3 +1,4 @@
+![Header](./github-header-image(1).png)
 # 💫 About Me:
 I'm an emerging developer from India, I started my coding journey back in 2023. I'm specialised in Frontend web development and python. I've developed quite a few projects and like to design webs, I prefer dark mode BTW go [here](https://ezazaa.github.io/ezazalamahmed/)
 
