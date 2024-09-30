@@ -1,6 +1,6 @@
 ![Header](./github-header-image(1).png)
 # 💫 About Me:
-I'm an emerging developer from India, I started my coding journey back in 2023. I'm specialised in Frontend web development and python. I've developed quite a few projects and like to design webs, I prefer dark mode BTW go [here](https://ezazaa.github.io/ezazalamahmed/)
+I'm Ezaz Alam Ahmed, an emerging developer from India with a passion for coding since 2023. I specialize in Frontend Web Development and Python. 😄
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ezazalamahmed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ezaz-alam-ahmed-a6700a2b6) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ezazalamahmed) 
