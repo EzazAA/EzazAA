@@ -46,4 +46,9 @@ Hey, I’m Ezaz Alam Ahmed! I'm a developer from India who fell in love with cod
 #
 [![](https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 # 🐍 Snake eating my contribs
-![Snake Animation]([https://github.com/EzazAA/EzazAA/raw/output/dist/github-snake.svg](https://github.com/EzazAA/EzazAA/blob/output/github-snake-dark.svg))
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/EzazAA/EzazAA/raw/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/EzazAA/EzazAA/raw/output/github-snake.svg">
+  <img alt="Snake Animation" src="https://github.com/EzazAA/EzazAA/raw/output/github-snake.svg">
+</picture>
+
