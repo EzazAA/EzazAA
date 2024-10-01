@@ -45,6 +45,5 @@ Hey, I’m Ezaz Alam Ahmed! I'm a developer from India who fell in love with cod
 ![](https://github-contributor-stats.vercel.app/api?username=ezazaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 #
 [![](https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
----
-
-
+# 🐍 Snake eating my contribs
+![Snake Animation]([https://github.com/EzazAA/EzazAA/raw/output/dist/github-snake.svg](https://github.com/EzazAA/EzazAA/blob/output/github-snake-dark.svg))
