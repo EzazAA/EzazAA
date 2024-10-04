@@ -23,6 +23,8 @@
 ## **Views**
 [![](https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
 
+# Holopin Board :
+[![An image of @ezazaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ezazaa)](https://holopin.io/@ezazaa)
 # 💫 About Me:
 Hey, I’m Ezaz Alam Ahmed! I'm a developer from India who fell in love with coding back in 2023. I focus on Frontend Web Development and Python, and I love creating smooth, user-friendly websites and powerful back-end solutions. I'm always up for learning something new and diving into exciting projects. Whether it's building cool interfaces or solving problems with code, I'm passionate about what I do and excited to see where this journey takes me! 😄
 # 🌐 Socials:
