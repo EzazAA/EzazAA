@@ -1,7 +1,8 @@
 <h1 align="center">Hi, It's me Ezaz ✋</h1>
 
-
-[![](https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true">
+</div>
 
 ## Holopin Board :
 [![An image of @ezazaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ezazaa)](https://holopin.io/@ezazaa)
