@@ -1,4 +1,4 @@
-<h1 align="center">Hi, It's me Ezaz ✋</h1>
+<h1 align="center">Hi, It's me Ezaz ✋ </h1>
 
 <div align="center">
   <img src="https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true">
