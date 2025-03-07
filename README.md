@@ -1,17 +1,5 @@
 <h1 align="center">Hi, It's me Ezaz ✋ </h1>
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=ezazaa&label=Profile%20Views&color=0&icon=6&pretty=true">
-  <img src="https://img.shields.io/badge/EzazAA-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</div>
-
-
-
 ## Holopin Board :
 [![An image of @ezazaa's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ezazaa)](https://holopin.io/@ezazaa)
 ## 💫 About Me:
@@ -27,12 +15,6 @@ Hey, I’m Ezaz Alam Ahmed! I'm a developer from India who fell in love with cod
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ezazaa&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ezazaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🐍 Snake eating my contribs
 <picture>
