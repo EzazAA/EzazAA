@@ -8,7 +8,7 @@ Im a teen building myself up for the Tech world. I do build websites , code desk
 - A little bit of art
 
 #### Know About me [here](https://ezazalamahmed.vercel.app)
-#### Reach me at - [Instagram](https://instagram.com/ezazalamahmed)
+#### Reach me at [Instagram](https://instagram.com/ezazalamahmed)
 <hr>
 
 I'd Love to Show-off my Github-Stats but Mine are so dry : )
